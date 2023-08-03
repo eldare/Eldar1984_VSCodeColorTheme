@@ -1,16 +1,25 @@
-# eldar1984 README
+# 👾 Eldar1984 - VSCode Color Theme 👾
 
-## Working with Markdown
+<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/logo_0.png?raw=true" width="250px">
+<br>
+Get ready to embark on a journey back in time, as this color palette invites you to relive the spirit of the '80s and infuse your creations with an irresistible sense of whimsical adventure!
+<br><br>
+Dive into a thrilling retro experience with our captivating color theme, reminiscent of the vibrant 1984 era. <br>
+Immerse yourself in the allure of a purple backdrop, adorned with a striking blend of sunny yellow, electrifying blue, and fiery orange hues. To add a refreshing twist, we've sprinkled in hints of light green, infusing your designs with a sense of playful nostalgia. 
+<br><br>
+🕹️ Combine it with <a href="https://github.com/adobe-fonts/source-code-pro">Source Code Pro font</a> for the ultimate experience 🕹️
+<br><br>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/preview_0.png?raw=true"><br>
+<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/preview_1.png?raw=true">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# Learn More
+ 🧙‍♀️ Created by Eldar Eliav
+<br>
+📟 <a href="https://github.com/eldare/VSCodeColorTheme_Eldar1984">Github Repository</a>
+<br>
+📜 Apache 2.0 License
+<br>
+🚀 <a href="https://gist.github.com/eldare/deb7b4974b9f2af09b10eaf8b92a4b6d">Eldar1984 Color Theme is also available for XCode</a>
+<br><br>
+^(;,;)^

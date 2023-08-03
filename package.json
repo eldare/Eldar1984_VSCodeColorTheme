@@ -1,13 +1,14 @@
 {
   "name": "eldar1984",
   "displayName": "Eldar1984",
-  "description": "1984 inspired color theme.",
+  "description": "👾 A fun retro color theme 👾",
   "version": "1.0.0",
-  "icon": "images/logo.png",
+  "icon": "images/logo_0.png",
   "author": {
     "name": "Eldar Eliav",
     "email": "eldare@gmail.com"
   },
+  "publisher": "Eldar1984",
   "homepage": "https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/master/README.md",
   "repository": {
     "type": "git",
