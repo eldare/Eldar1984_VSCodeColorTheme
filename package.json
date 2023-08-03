@@ -1,0 +1,51 @@
+{
+  "name": "eldar1984",
+  "displayName": "Eldar1984",
+  "description": "1984 inspired color theme.",
+  "version": "1.0.0",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Eldar Eliav",
+    "email": "eldare@gmail.com"
+  },
+  "homepage": "https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldare/VSCodeColorTheme_Eldar1984"
+  },
+  "bugs": {
+    "url": "https://github.com/eldare/VSCodeColorTheme_Eldar1984/issues",
+    "email": "eldare@gmail.com"
+  },
+  "galleryBanner": {
+    "color": "#30303E",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Eldar",
+    "1984",
+    "84",
+    "80s",
+    "purple",
+    "yellow",
+    "orange"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eldar1984",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Eldar1984-color-theme.json"
+      }
+    ]
+  }
+}
