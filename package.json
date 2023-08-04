@@ -2,8 +2,9 @@
   "name": "eldar1984",
   "displayName": "Eldar1984",
   "description": "👾 A fun retro color theme 👾",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/logo_0.png",
+  "license": "Apache-2.0",
   "author": {
     "name": "Eldar Eliav",
     "email": "eldare@gmail.com"
@@ -33,9 +34,12 @@
     "1984",
     "84",
     "80s",
+    "retro",
+    "fun",
     "purple",
     "yellow",
-    "orange"
+    "orange",
+    "xcode"
   ],
   "categories": [
     "Themes"
