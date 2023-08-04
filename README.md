@@ -1,6 +1,6 @@
 # 👾 Eldar1984 - VSCode Color Theme 👾
 
-<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/logo_0.png?raw=true" width="250px">
+<img src="https://github.com/eldare/Eldar1984_VSCodeColorTheme/blob/main/images/logo_0.png?raw=true" width="250px">
 <br>
 Get ready to embark on a journey back in time, as this color palette invites you to relive the spirit of the '80s and infuse your creations with an irresistible sense of whimsical adventure!
 <br><br>
@@ -10,16 +10,14 @@ Immerse yourself in the allure of a purple backdrop, adorned with a striking ble
 🕹️ Combine it with <a href="https://github.com/adobe-fonts/source-code-pro">Source Code Pro font</a> for the ultimate experience 🕹️
 <br><br>
 
-<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/preview_0.png?raw=true"><br>
-<img src="https://github.com/eldare/VSCodeColorTheme_Eldar1984/blob/main/images/preview_1.png?raw=true">
+<img src="https://github.com/eldare/Eldar1984_VSCodeColorTheme/blob/main/images/preview_0.png?raw=true"><br>
+<img src="https://github.com/eldare/Eldar1984_VSCodeColorTheme/blob/main/images/preview_1.png?raw=true">
 
-# Learn More
+## Learn More
  🧙‍♀️ Created by Eldar Eliav
 <br>
-📟 <a href="https://github.com/eldare/VSCodeColorTheme_Eldar1984">Github Repository</a>
+📟 <a href="https://github.com/eldare/Eldar1984_VSCodeColorTheme">Github Repository</a>
 <br>
-📜 Apache 2.0 License
-<br>
-🚀 <a href="https://gist.github.com/eldare/deb7b4974b9f2af09b10eaf8b92a4b6d">Eldar1984 Color Theme is also available for XCode</a>
+🚀 <a href="https://github.com/eldare/Eldar1984_XcodeColorTheme">Eldar1984 Color Theme is also available for XCode</a>
 <br><br>
 ^(;,;)^
